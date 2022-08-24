@@ -4,9 +4,6 @@ Can i use this code? Sure, 50% of the code aint mine too
 
 
 EDUCATIONAL PURPOSES ONLY
-I dont take any
-
-
 */
 
 #include <iostream>
