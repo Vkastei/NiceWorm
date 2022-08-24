@@ -13,5 +13,5 @@ Places Readmes in FilePaths which warns People to not click on suspicious links 
 
 After the top listed things happend the File will be add to startup, and when the user restarts the PC or someway Executes the File, all the Readmes and The Startup will be deleted.
 
-#EDUCATIONAL PURPOSES ONLY
+# EDUCATIONAL PURPOSES ONLY
 USE THIS REPOSITORY ONLY FOR EDUCATIONAL PURPOSES. I AM NOT RESPONSIBLE FOR ANY LEGALLY ACTIONS WHEN USING THIS CODE!
